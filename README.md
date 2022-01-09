@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthiga Lakshmanan</h1>
-<h3 align="center">I am passionate Data analyst</h3>
+<h3 align="center">I am passionate Data Analyst</h3>
 
 - 🌱 I’m currently learning **Power BI, Python**
 
