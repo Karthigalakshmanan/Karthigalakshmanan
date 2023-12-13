@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthiga Lakshmanan</h1>
-<h3 align="center">Data Analyst Aspirant with proficient in SQL, Power BI, Excel and Python</h3>
+<h3 align="center">Data Analyst with proficient in SQL, Power BI, Excel and Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthigalakshmanan&label=Profile%20views&color=0e75b6&style=flat" alt="karthigalakshmanan" /> </p>
 
