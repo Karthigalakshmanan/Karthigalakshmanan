@@ -1,19 +1,24 @@
-<h1 align="center">Hi 👋, I'm Karthiga Lakshmanan</h1>
+# Hi 👋, I'm Karthiga Lakshmanan Karthiga Lakshmanan - Data Analyst
 
-<h3 align="center"> A self-taught Data Analyst with proficient in SQL, Power BI, Excel, and Python</h3>
+Hello! I'm a self-taught Data Analyst with proficiency in SQL, Power BI, Excel, and Python.
 
-<h4 align="left">📚 Projects & Guides 📚</h4>
-You can find my projects and guides on data analytics
+## 📚 Projects & Guides 📚
 
-<h4 align="left">💡 My Skills </h4>
+You can find my projects and guides on data analytics.
+
+## 💡 My Skills
+
 * Data preparation, Data Transformation, and analysis
 * Dashboard development and reporting
 * Exploratory data analysis
 
-<h4 align="left">🛠️ My Tools </h4>
-* Databases: SQL (MySQL)
-* Visualization: Power BI,Excel
-* Python: Pandas
+## 🛠️ My Tools
 
-<h4 align="left">🙌🏻 Connect with Me </h4>
-[Linkedin](https://www.linkedin.com/in/karthiga-lakshmanan/)
+* **Databases:** SQL (MySQL)
+* **Visualization:** Power BI, Excel
+* **Python:** Pandas
+
+## 🙌🏻 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/karthiga-lakshmanan/)
+
