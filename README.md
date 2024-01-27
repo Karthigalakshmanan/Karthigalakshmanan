@@ -1,6 +1,6 @@
-# Hi 👋, I'm Karthiga Lakshmanan Karthiga Lakshmanan - Data Analyst
+# Hi 👋, I'm Karthiga Lakshmanan
 
-Hello! I'm a self-taught Data Analyst with proficiency in SQL, Power BI, Excel, and Python.
+I'm a self-taught Data Analyst with proficiency in SQL, Power BI, Excel, and Python.
 
 ## 📚 Projects & Guides 📚
 
