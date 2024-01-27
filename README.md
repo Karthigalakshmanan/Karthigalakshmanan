@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Karthiga Lakshmanan</h1>
+
 <h3 align="center"> A self-taught Data Analyst with proficient in SQL, Power BI, Excel, and Python</h3>
 
 <h4>📚 Projects & Guides 📚</h4>
-In my portfolio, you can find my projects and guides on data analytics,
+In my portfolio, you can find my projects and guides on data analytics
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthigalakshmanan&label=Profile%20views&color=0e75b6&style=flat" alt="karthigalakshmanan" /> </p>
 
 <h4>💡 My Skills💡</h4>
 -Data preparation, Data Transformation, and analysis
--Dashboard development and reporting
--Exploratory data analysis
+*Dashboard development and reporting
++Exploratory data analysis
 
 <h4>🛠️ Tools Used</h4>
 Databases: SQL (MySQL)
